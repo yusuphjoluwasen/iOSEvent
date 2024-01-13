@@ -24,7 +24,22 @@ final class iOSEvent_Tests: XCTestCase {
         // Any test you write for XCTest can be annotated as throws and async.
         // Mark your test throws to produce an unexpected failure when your test encounters an uncaught error.
         // Mark your test async to allow awaiting for asynchronous code to complete. Check the results with assertions afterwards.
+       
+         
+//        let date = Date()
+//        let dateFormatter = DateFormatter()
+//
+//        dateFormatter.dateFormat = "yyyy"
+//
+//        let yearr = dateFormatter.date(from:"2024-03-04") ?? date
+//        let result = dateFormatter.string(from: yearr)
+//
+        let result = convertDateFormat(inputDate: "2024-03-04", oldformat: "yyyy-MM-dd", newFormat: "yyyy")
+        print(result)
+        
     }
+    
+    
 
     func testPerformanceExample() throws {
         // This is an example of a performance test case.

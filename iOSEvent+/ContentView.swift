@@ -8,14 +8,13 @@
 import SwiftUI
 
 struct ContentView: View {
+    let repo:EventRepoProtocol = EventRepo()
+   
     var body: some View {
         VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundColor(.accentColor)
-            Text("Hello, world!")
+            FirstPageView()
+                .environmentObject(EventViewModel(eventRepo: repo))
         }
-        .padding()
     }
 }
 

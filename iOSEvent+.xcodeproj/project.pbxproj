@@ -14,6 +14,24 @@
 		092635A829B07E3000F8D343 /* iOSEvent_Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 092635A729B07E3000F8D343 /* iOSEvent_Tests.swift */; };
 		092635B229B07E3000F8D343 /* iOSEvent_UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 092635B129B07E3000F8D343 /* iOSEvent_UITests.swift */; };
 		092635B429B07E3000F8D343 /* iOSEvent_UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 092635B329B07E3000F8D343 /* iOSEvent_UITestsLaunchTests.swift */; };
+		092635C129B080E400F8D343 /* FirstPageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 092635C029B080E400F8D343 /* FirstPageView.swift */; };
+		092635C329B082D300F8D343 /* iOSUtil.swift in Sources */ = {isa = PBXBuildFile; fileRef = 092635C229B082D300F8D343 /* iOSUtil.swift */; };
+		092635C729B0868400F8D343 /* EventPageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 092635C629B0868400F8D343 /* EventPageView.swift */; };
+		092635C929B08AF700F8D343 /* EventRepo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 092635C829B08AF700F8D343 /* EventRepo.swift */; };
+		092635CC29B08BB100F8D343 /* Yams in Frameworks */ = {isa = PBXBuildFile; productRef = 092635CB29B08BB100F8D343 /* Yams */; };
+		092635CE29B08C4B00F8D343 /* EventModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 092635CD29B08C4B00F8D343 /* EventModel.swift */; };
+		092635D029B08CA200F8D343 /* EventViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 092635CF29B08CA200F8D343 /* EventViewModel.swift */; };
+		092635D229B0DF2200F8D343 /* JobsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 092635D129B0DF2200F8D343 /* JobsView.swift */; };
+		092635D429B0DF3B00F8D343 /* MainPageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 092635D329B0DF3B00F8D343 /* MainPageView.swift */; };
+		092635D629B0E04A00F8D343 /* iOSresources.swift in Sources */ = {isa = PBXBuildFile; fileRef = 092635D529B0E04A00F8D343 /* iOSresources.swift */; };
+		092635DA29B1FD5C00F8D343 /* YoutubeLinks.swift in Sources */ = {isa = PBXBuildFile; fileRef = 092635D929B1FD5C00F8D343 /* YoutubeLinks.swift */; };
+		092635DC29B216B000F8D343 /* MediumView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 092635DB29B216B000F8D343 /* MediumView.swift */; };
+		09E2457B29B2571E00F802A8 /* iOSCourses.swift in Sources */ = {isa = PBXBuildFile; fileRef = 09E2457A29B2571E00F802A8 /* iOSCourses.swift */; };
+		09E2457D29B2632300F802A8 /* iOSBlogs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 09E2457C29B2632300F802A8 /* iOSBlogs.swift */; };
+		09E2457F29B2694800F802A8 /* iOSDSA.swift in Sources */ = {isa = PBXBuildFile; fileRef = 09E2457E29B2694800F802A8 /* iOSDSA.swift */; };
+		09E2458129B26EA400F802A8 /* iOSGeneral.swift in Sources */ = {isa = PBXBuildFile; fileRef = 09E2458029B26EA400F802A8 /* iOSGeneral.swift */; };
+		09E2458329B270E300F802A8 /* iOSBooks.swift in Sources */ = {isa = PBXBuildFile; fileRef = 09E2458229B270E300F802A8 /* iOSBooks.swift */; };
+		09E2458529B2711D00F802A8 /* iOSDesignPattern.swift in Sources */ = {isa = PBXBuildFile; fileRef = 09E2458429B2711D00F802A8 /* iOSDesignPattern.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +62,24 @@
 		092635AD29B07E3000F8D343 /* iOSEvent+UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "iOSEvent+UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		092635B129B07E3000F8D343 /* iOSEvent_UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iOSEvent_UITests.swift; sourceTree = "<group>"; };
 		092635B329B07E3000F8D343 /* iOSEvent_UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iOSEvent_UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		092635C029B080E400F8D343 /* FirstPageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstPageView.swift; sourceTree = "<group>"; };
+		092635C229B082D300F8D343 /* iOSUtil.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iOSUtil.swift; sourceTree = "<group>"; };
+		092635C629B0868400F8D343 /* EventPageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EventPageView.swift; sourceTree = "<group>"; };
+		092635C829B08AF700F8D343 /* EventRepo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EventRepo.swift; sourceTree = "<group>"; };
+		092635CD29B08C4B00F8D343 /* EventModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EventModel.swift; sourceTree = "<group>"; };
+		092635CF29B08CA200F8D343 /* EventViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EventViewModel.swift; sourceTree = "<group>"; };
+		092635D129B0DF2200F8D343 /* JobsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JobsView.swift; sourceTree = "<group>"; };
+		092635D329B0DF3B00F8D343 /* MainPageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainPageView.swift; sourceTree = "<group>"; };
+		092635D529B0E04A00F8D343 /* iOSresources.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iOSresources.swift; sourceTree = "<group>"; };
+		092635D929B1FD5C00F8D343 /* YoutubeLinks.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = YoutubeLinks.swift; sourceTree = "<group>"; };
+		092635DB29B216B000F8D343 /* MediumView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MediumView.swift; sourceTree = "<group>"; };
+		09E2457A29B2571E00F802A8 /* iOSCourses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iOSCourses.swift; sourceTree = "<group>"; };
+		09E2457C29B2632300F802A8 /* iOSBlogs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iOSBlogs.swift; sourceTree = "<group>"; };
+		09E2457E29B2694800F802A8 /* iOSDSA.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iOSDSA.swift; sourceTree = "<group>"; };
+		09E2458029B26EA400F802A8 /* iOSGeneral.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iOSGeneral.swift; sourceTree = "<group>"; };
+		09E2458229B270E300F802A8 /* iOSBooks.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iOSBooks.swift; sourceTree = "<group>"; };
+		09E2458429B2711D00F802A8 /* iOSDesignPattern.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iOSDesignPattern.swift; sourceTree = "<group>"; };
+		09E2458629B325EF00F802A8 /* iOSEvent--Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = "iOSEvent--Info.plist"; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,6 +87,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				092635CC29B08BB100F8D343 /* Yams in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -94,8 +131,13 @@
 		0926359529B07E2F00F8D343 /* iOSEvent+ */ = {
 			isa = PBXGroup;
 			children = (
-				0926359629B07E2F00F8D343 /* iOSEvent_App.swift */,
+				09B3CC6C2B52CB0000321C53 /* EventModel */,
+				09B3CC6B2B52CA9900321C53 /* Views */,
+				09B3CC6A2B52CA8B00321C53 /* EventViewModel */,
+				09B3CC692B52CA6700321C53 /* EventRepo */,
+				09E2458629B325EF00F802A8 /* iOSEvent--Info.plist */,
 				0926359829B07E2F00F8D343 /* ContentView.swift */,
+				0926359629B07E2F00F8D343 /* iOSEvent_App.swift */,
 				0926359A29B07E3000F8D343 /* Assets.xcassets */,
 				0926359C29B07E3000F8D343 /* Preview Content */,
 			);
@@ -127,6 +169,51 @@
 			path = "iOSEvent+UITests";
 			sourceTree = "<group>";
 		};
+		09B3CC692B52CA6700321C53 /* EventRepo */ = {
+			isa = PBXGroup;
+			children = (
+				092635C829B08AF700F8D343 /* EventRepo.swift */,
+				092635C229B082D300F8D343 /* iOSUtil.swift */,
+			);
+			path = EventRepo;
+			sourceTree = "<group>";
+		};
+		09B3CC6A2B52CA8B00321C53 /* EventViewModel */ = {
+			isa = PBXGroup;
+			children = (
+				092635CF29B08CA200F8D343 /* EventViewModel.swift */,
+			);
+			path = EventViewModel;
+			sourceTree = "<group>";
+		};
+		09B3CC6B2B52CA9900321C53 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				092635C029B080E400F8D343 /* FirstPageView.swift */,
+				092635DB29B216B000F8D343 /* MediumView.swift */,
+				092635D529B0E04A00F8D343 /* iOSresources.swift */,
+				09E2458029B26EA400F802A8 /* iOSGeneral.swift */,
+				09E2457C29B2632300F802A8 /* iOSBlogs.swift */,
+				09E2457A29B2571E00F802A8 /* iOSCourses.swift */,
+				09E2457E29B2694800F802A8 /* iOSDSA.swift */,
+				09E2458429B2711D00F802A8 /* iOSDesignPattern.swift */,
+				092635D929B1FD5C00F8D343 /* YoutubeLinks.swift */,
+				09E2458229B270E300F802A8 /* iOSBooks.swift */,
+				092635C629B0868400F8D343 /* EventPageView.swift */,
+				092635D129B0DF2200F8D343 /* JobsView.swift */,
+				092635D329B0DF3B00F8D343 /* MainPageView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		09B3CC6C2B52CB0000321C53 /* EventModel */ = {
+			isa = PBXGroup;
+			children = (
+				092635CD29B08C4B00F8D343 /* EventModel.swift */,
+			);
+			path = EventModel;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -143,6 +230,9 @@
 			dependencies = (
 			);
 			name = "iOSEvent+";
+			packageProductDependencies = (
+				092635CB29B08BB100F8D343 /* Yams */,
+			);
 			productName = "iOSEvent+";
 			productReference = 0926359329B07E2F00F8D343 /* iOSEvent+.app */;
 			productType = "com.apple.product-type.application";
@@ -215,6 +305,9 @@
 				Base,
 			);
 			mainGroup = 0926358A29B07E2F00F8D343;
+			packageReferences = (
+				092635CA29B08BB100F8D343 /* XCRemoteSwiftPackageReference "Yams" */,
+			);
 			productRefGroup = 0926359429B07E2F00F8D343 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -258,7 +351,24 @@
 			buildActionMask = 2147483647;
 			files = (
 				0926359929B07E2F00F8D343 /* ContentView.swift in Sources */,
+				092635C329B082D300F8D343 /* iOSUtil.swift in Sources */,
+				09E2457B29B2571E00F802A8 /* iOSCourses.swift in Sources */,
+				09E2458529B2711D00F802A8 /* iOSDesignPattern.swift in Sources */,
+				092635DC29B216B000F8D343 /* MediumView.swift in Sources */,
+				092635D429B0DF3B00F8D343 /* MainPageView.swift in Sources */,
+				092635C929B08AF700F8D343 /* EventRepo.swift in Sources */,
+				092635C129B080E400F8D343 /* FirstPageView.swift in Sources */,
+				09E2458129B26EA400F802A8 /* iOSGeneral.swift in Sources */,
+				09E2457D29B2632300F802A8 /* iOSBlogs.swift in Sources */,
 				0926359729B07E2F00F8D343 /* iOSEvent_App.swift in Sources */,
+				092635D029B08CA200F8D343 /* EventViewModel.swift in Sources */,
+				09E2457F29B2694800F802A8 /* iOSDSA.swift in Sources */,
+				092635CE29B08C4B00F8D343 /* EventModel.swift in Sources */,
+				092635C729B0868400F8D343 /* EventPageView.swift in Sources */,
+				092635D629B0E04A00F8D343 /* iOSresources.swift in Sources */,
+				092635D229B0DF2200F8D343 /* JobsView.swift in Sources */,
+				09E2458329B270E300F802A8 /* iOSBooks.swift in Sources */,
+				092635DA29B1FD5C00F8D343 /* YoutubeLinks.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -345,7 +455,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 16.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
@@ -399,7 +509,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 16.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				SDKROOT = iphoneos;
@@ -417,9 +527,11 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"iOSEvent+/Preview Content\"";
-				DEVELOPMENT_TEAM = GC375RV42S;
+				DEVELOPMENT_TEAM = FKV8TK35V9;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "iOSEvent--Info.plist";
+				INFOPLIST_KEY_NSCalendarsUsageDescription = "Needs Permission to add event to your calendar";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -430,7 +542,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.gurunexus.iOSEvent-";
+				PRODUCT_BUNDLE_IDENTIFIER = com.lincapp.lincappios;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -446,9 +558,11 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"iOSEvent+/Preview Content\"";
-				DEVELOPMENT_TEAM = GC375RV42S;
+				DEVELOPMENT_TEAM = FKV8TK35V9;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "iOSEvent--Info.plist";
+				INFOPLIST_KEY_NSCalendarsUsageDescription = "Needs Permission to add event to your calendar";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -459,7 +573,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.gurunexus.iOSEvent-";
+				PRODUCT_BUNDLE_IDENTIFIER = com.lincapp.lincappios;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -583,6 +697,25 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		092635CA29B08BB100F8D343 /* XCRemoteSwiftPackageReference "Yams" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/jpsim/Yams.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 5.0.0;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		092635CB29B08BB100F8D343 /* Yams */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 092635CA29B08BB100F8D343 /* XCRemoteSwiftPackageReference "Yams" */;
+			productName = Yams;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = 0926358B29B07E2F00F8D343 /* Project object */;
 }
