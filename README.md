@@ -14,3 +14,5 @@ The event on the app is curated from [CocoaConferences](https://github.com/Lasco
 * Combine
 
 ![Simulator Screenshot - iPhone 15 - 2024-01-13 at 20 26 30 (1)](https://github.com/yonat/MultiSlider/assets/25069943/79588a4d-7733-4234-b8c5-afb049973eaa)
+
+![Simulator Screenshot - iPhone 15 - 2024-01-13 at 20 37 36](https://github.com/yonat/MultiSlider/assets/25069943/7d832a00-51aa-4e15-97b7-b80922d29a01)
