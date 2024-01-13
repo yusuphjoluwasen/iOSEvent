@@ -6,3 +6,10 @@ The event on the app is curated from [CocoaConferences](https://github.com/Lasco
 * Event Showcase
 * iOS Job Listings
 * Learning Resources: ios blog posts, courses, recommended books, design patterns e.t.c
+
+## Technical Skills:
+* Swift
+* SwiftUI
+* Yaml to Codable
+* Combine
+  
